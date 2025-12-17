@@ -533,21 +533,10 @@ With **818:1 class imbalance**, ROC-AUC can be misleading:
 
 ## 🤝 Contributors
 
-**Vinh [Your Last Name]**
-- MBA Candidate, Tulane University
+**Vinh Tran**
+- Master of Science in Business Analytics & AI, Tulane University
 - Focus: Business Analytics & Data Science
-- [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
-
-**Project Team**
-- Peilin Ye
-- Youyang Liu
-- Rod Williams
-- Reese Hathaway
-- Cara Salsberry
-
-**Course**: MGSC 7310 - Modeling & Analytics  
-**Institution**: Freeman School of Business, Tulane University  
-**Semester**: Fall 2024
+- [LinkedIn](https://www.linkedin.com/in/vinh-tran1707/) | [GitHub](https://github.com/vinhtran1707)
 
 ---
 
@@ -571,18 +560,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration opportunities:
 
-**Vinh [Last Name]**  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 🔗 Related Projects
-
-- [Wildfire Prediction with Deep Learning](https://github.com/example/wildfire-dl)
-- [Climate Risk Assessment](https://github.com/example/climate-risk)
-- [Satellite Image Analysis](https://github.com/example/satellite-analysis)
+**Vinh Tran**  
+📧 Email: vinhtran170703@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/vinh-tran1707/)
+[GitHub](https://github.com/vinhtran1707)
 
 ---
 
@@ -596,10 +577,4 @@ For questions or collaboration opportunities:
 
 ---
 
-<div align="center">
-
-**⭐ Star this repository if you found it useful! ⭐**
-
-Made with ❤️ by Vinh | Tulane MBA 2025
-
-</div>
+Made with ❤️ by Vinh Tran
