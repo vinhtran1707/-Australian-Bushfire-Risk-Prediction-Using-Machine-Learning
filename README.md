@@ -7,8 +7,6 @@
 
 > **Predictive modeling of bushfire intensity and risk classification during the 2019-2020 Australian Black Summer fires using satellite data, weather patterns, and population density.**
 
-![Project Banner](docs/images/banner.png)
-
 ---
 
 ## 📋 Table of Contents
@@ -418,22 +416,15 @@ australian-bushfire-ml-analysis/
 ├── environment.yml                        # Conda environment
 │
 ├── data/
-│   ├── raw/                              # Raw data (not tracked)
-│   │   ├── fires/                        # NASA FIRMS data
-│   │   ├── weather/                      # BOM weather data
-│   │   └── population/                   # WorldPop raster
 │   │
 │   ├── processed/                        # Cleaned data
 │   │   ├── fires_complete_CLEAN.csv     # Fully integrated dataset
 │   │   ├── fires_for_xgboost.csv        # ML-ready dataset
 │   │   └── high_risk_events.csv         # 219 high-risk events
-│   │
-│   └── README.md                         # Data documentation
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb         # Initial EDA
-│   ├── 02_xgboost_modeling.ipynb         # ML training & evaluation
-│   └── 03_results_analysis.ipynb         # Results visualization
+│   ├── xgboost_modeling.ipynb         # Initial EDA, ML training & evaluation, Results visualization
+
 │
 ├── src/
 │   ├── data_cleaning.R                   # R: Data integration
@@ -459,11 +450,7 @@ australian-bushfire-ml-analysis/
 │   ├── models/                           # Saved models
 │   │   ├── xgboost_frp_regression.json
 │   │   └── xgboost_highrisk_classification.json
-│   │
-│   └── metrics/                          # Performance metrics
-│       ├── regression_metrics.csv
-│       ├── classification_metrics.csv
-│       └── feature_importance.csv
+\
 │
 ├── docs/
 │   ├── METHODOLOGY.md                    # Detailed methodology
